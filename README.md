@@ -1,41 +1,63 @@
 
-My projects and areas of expertise:
+## SKILLS:
 
-* **CSS processing & front-end tooling:** [Autoprefixer](https://github.com/postcss/autoprefixer), [Browserslist](https://github.com/browserslist/browserslist),
-  [PostCSS](https://github.com/postcss/postcss), and many PostCSS plugins.
-* **Web tools:** [OKLCH Color Picker](https://oklch.evilmartians.io/), [Browserslist REPL](https://browsersl.ist/), [Easing Functions Cheat Sheet](https://easings.net/).
-* **JS nano libraries:** [Size Limit](https://github.com/ai/size-limit/) to track library size, [NanoID](https://github.com/ai/nanoid),
-  [Nano Stores](https://github.com/ai/nanostores), [Nano Events](https://github.com/ai/nanoevents), [Nano Delay](https://github.com/ai/nanodelay).
-* **CRDT & distributed systems:** [Logux](https://logux.org/).
-* **Calligraphy & language diversity:** [Linguopunk Twitter](https://twitter.com/linguopunk), [Твиттер Лингвопанка](https://twitter.com/linguopunk_ru),
-  [Телеграм Лингвопанка](https://t.me/linguopunk).
-* **Linux:** [my configs](https://github.com/ai/environment), [my keyboard layout](https://github.com/ai/universal-layout), and
-  GNOME Shell extensions: [Autohide Battery](https://github.com/ai/autohide-battery), [Hide Keyboard Layout](https://github.com/ai/hide-keyboard-layout).
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" alt="PostCSS logo" />
 
-<a href="https://github.com/postcss/postcss"><img src="https://postcss.org/logo.svg" width="70" height="70" alt="PostCSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/browserslist/browserslist"><img src="https://browserslist.github.io/browserslist/logo.svg" width="70" height="70" alt="Browserslist logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/postcss/autoprefixer"><img src="http://postcss.github.io/autoprefixer/logo.svg" width="70" height="70" alt="Autoprefixer logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/logux/logux"><img src="https://logux.org/branding/logo.svg" width="70" height="70" alt="Logux logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ai/size-limit"><img src="https://ai.github.io/size-limit/logo.svg" width="54" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/ai/nanoid"><img src="https://ai.github.io/nanoid/logo.svg" width="90" height="70" alt="Size Limit logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/storeon/storeon"><img src="https://storeon.github.io/storeon/logo.svg" width="70" height="70" alt="Storeon logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/postcss/sugarss"><img src="http://postcss.github.io/sugarss/logo.svg" width="70" height="70" alt="SugarSS logo" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<a href="https://github.com/nanostores/nanostores"><img src="https://nanostores.github.io/nanostores/logo.svg" width="70" height="70" title="Nano Stores logo"></a>
+## Things I have built or contributed
+
+- [Etherium smart contract](https://kleros.io/)
+
+    📝 Description: Kleros is a decentralized dispute resolution system powered by Ethereum smart contracts. It's used for arbitrating contracts in decentralized applications (dApps).
+    [code here...](https://github.com/david1991826/ETH_Kleros_ERC792.git)
+---
+- [Explorer - Solana ecosystem](https://explorer.solana.com)
+
+    📝 Description: Solana Explorer is a web-based tool to track transactions, tokens, and smart contracts on the Solana blockchain. It provides an in-depth view of the Solana ecosystem.
+    [code here...](https://github.com/david1991826/block_track_solana.git)
+---
+- [SelfKey - Identity wallet](https://selfkey.org)
+
+    📝 Description: SelfKey is a self-sovereign identity platform that allows users to control and manage their digital identity using blockchain technology and smart contracts.
+    [code here...](https://github.com/david1991826/Block_selfKey_Wallet_ID.git)
+---
+- [Metaplex solana ecosystem](https://www.metaplex.com)
+
+    📝 Description: Metaplex is a platform and ecosystem that enables creators to mint, list, and sell NFTs directly on Solana, focusing on user experience and scalability.
+    [code here...](https://github.com/david1991826/solana_Meta-plex-ecosys.git)
+---
+- [MediHub - One Hospital Management Solution](https://librehealth.io)
+
+    MediHub is an open-source web application designed to revolutionize healthcare management. Developed using the powerful MERN stack, it offers seamless management of appointments, patient records, and doctor interactions, all in one convenient platform.
+    [code here...](https://github.com/david1991826/Medical_AI_bot_MERN.git)
+---
+- [MERN Stack AI Chatbot](https://github.com/SeleniumHQ/selenium)
+
+    This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
+    [code here...](https://github.com/david1991826/MERN_AI_chat_bot.git)
+---
+- [Python scraping](https://realpython.github.io/fake-jobs/)
+
+    An implementation of model & data parallel GPT3-like models using the mesh-tensorflow library.
+    [code here...](https://github.com/david1991826/scraping_py.git)
+---
+- [Python scripts for interacting with the Solana blockchain](https://docs.solanatracker.io/public-data-api)
+
+    Offers comprehensive data on tokens, market metrics, wallet analytics, and real-time updates via REST and WebSocket APIs.
+    [code here...](https://github.com/david1991826/scraping_solana.git)
+---
+- [Laravel scraping](https://docs.solana.com/developing/clients/jsonrpc-api)
+
+    This project involves creating a scraper using Laravel and Vue.js to extract data from Hacker News. The scraper will retrieve information such as title, link, points, and date created for each article. The extracted data will be stored in a local MySQL database, utilizing phpMyAdmin. Only registered users will be able to view the scraper UI.
+    [code here...](https://github.com/david1991826/scraping_laravel.git)
+---
+- [Ecommerce - MERN](https://kosells.herokuapp.com)
+
+    An installable e-commerce app built using the MERN stack, Redux.js, Bootstrap 5 and AWS's S3 Storage. The user authentication includes 4 social login options(Google, Github, Twitter, Linkedin).
+    [code here...](https://github.com/david1991826/mern_ecommerce.git)
+---
+- [Blockchain Land Registry with Laravel](https://docs.moralis.io/solana)
+
+    This is a pet project built on Laravel and Ethereum to understand the basic of decentralized application. I wrote a tutorial on this.
+    [code here](https://github.com/david1991826/Laravel_blockchain.git)
 
 
-## Things I have built or been working on
-
-- [AmitMerchant.com](https://amitmerchant.com/) — Writing
-- [Notepad](https://notepad.js.org/) — An offline-first notepad ([Code](https://github.com/amitmerchant1990/notepad))
-- [Night Clock](https://play.google.com/store/apps/details?id=com.amitmerchant.nightclockalwayson) - A minimal Android app that lets you use your phone as a bedside clock. ([Code](https://github.com/amitmerchant1990/night-clock))
-- [Markdownify](https://markdownify.js.org/) — A minimal Markdown editor ([Code](https://github.com/amitmerchant1990/electron-markdownify))
-- [LinkSnatch](https://linksnatch.pages.dev/) — Dead simple bookmarks ([Code](https://github.com/amitmerchant1990/linksnatch))
-- [Mac Treasure](https://mactreasure.com/) — A Curated List of macOS Apps
-- [Reverie](https://github.com/amitmerchant1990/reverie) — A ridiculously elegant Jekyll theme
-- [ConsolePad](https://github.com/amitmerchant1990/consolepad) — The missing notepad in your DevTools
-- [Sole](https://github.com/amitmerchant1990/sole) — Jot down only one thing at a time
-- [Pomolectron](https://github.com/amitmerchant1990/pomolectron) — A pomodoro app for your menubar/tray
-<!---
-david1991826/david1991826 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
