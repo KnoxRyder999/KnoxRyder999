@@ -13,6 +13,15 @@
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="50" height="50" alt="HTML"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Binance_Logo.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/MetaMask_Fox.png" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Chainlink_logo.svg" width="50" height="50" alt="HTML"/>
 
+- bot automation
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="50" height="50" alt="HTML"/>
+    <img src="files://D:/symbols/smart-contracts.png" width="50" height="50" alt="HTML"/>
+
+- web scraping
+
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="50" height="50" alt="HTML"/>
+
 ---
 ## Things I have built or contributed
 
