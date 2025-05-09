@@ -1,8 +1,13 @@
 
 ## SKILLS:
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="70" height="70" alt="PostCSS logo" />
-
+<div class="flex">
+    <div class="flex">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>
+        HTML
+    </div>
+</div>
+---
 ## Things I have built or contributed
 
 - [Etherium smart contract](https://kleros.io/)
