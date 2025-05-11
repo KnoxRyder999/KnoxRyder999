@@ -1,26 +1,32 @@
 
-## SKILLS:
+✅ Full-Stack Development (React, Vue, Node.js, Laravel, Next.js)
+✅ UI/UX Design with focus on usability and responsiveness
+✅ Blockchain & Smart Contract (Solidity, Solana, Web3)
+✅ Automation & Bot Development (Python, Puppeteer, Selenium)
+✅ AI & Machine Learning Integration
+✅ Web Scraping & Data Mining
+✅ Clean code, on-time delivery, and open communication
 
 - frontend
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" alt="HTML"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="50" height="50" alt="HTML"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="HTML"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" height="30" alt="HTML"/>
 
 - backend
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="50" height="50" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="50" height="50" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="50" height="50" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="50" height="50" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="HTML"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="30" height="30" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="HTML"/>
     
 - blockchain
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="50" height="50" alt="HTML"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Binance_Logo.svg" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/MetaMask_Fox.png" width="50" height="50" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Chainlink_logo.svg" width="50" height="50" alt="HTML"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="30" height="30" alt="HTML"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Binance_Logo.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/MetaMask_Fox.png" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Chainlink_logo.svg" width="30" height="30" alt="HTML"/>
 
 - bot automation
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="50" height="50" alt="HTML"/>
-    <img src="files://D:/symbols/smart-contracts.png" width="50" height="50" alt="HTML"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="30" height="30" alt="HTML"/>
+    <img src="files://D:/symbols/smart-contracts.png" width="30" height="30" alt="HTML"/>
 
 - web scraping
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="50" height="50" alt="HTML"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="30" height="30" alt="HTML"/>
 
 ---
 ## Things I have built or contributed
