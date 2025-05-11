@@ -1,88 +1,108 @@
+# Knox Ryder's Portfolio
 
-- Full-Stack Development (React, Vue, Node.js, Laravel, Next.js)
-- UI/UX Design with focus on usability and responsiveness
-- Blockchain & Smart Contract (Solidity, Solana, Web3)
-- Automation & Bot Development (Python, Puppeteer, Selenium)
-- AI & Machine Learning Integration
-- Web Scraping & Data Mining
-- Clean code, on-time delivery, and open communication
+Welcome to my GitHub profile! I'm a **Full-Stack Developer** with a passion for **Blockchain**, **AI**, **Automation**, and **Smart Contract** development. I build scalable, efficient, and secure applications across a variety of platforms.
 
-<!-- - frontend
+## 🚀 Skills & Technologies
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="HTML"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" height="30" alt="HTML"/>
+- **Full-Stack Development**:
+  - React, Vue.js, Node.js, Laravel, Next.js
+- **Blockchain & Smart Contracts**:
+  - Solidity, Solana, Web3.js
+- **UI/UX Design**:
+  - Focus on usability, accessibility, and responsive design
+- **Automation & Bot Development**:
+  - Python, Puppeteer, Selenium
+- **AI & Machine Learning**:
+  - Integration of ML models with web applications
+- **Web Scraping & Data Mining**:
+  - Python, BeautifulSoup, Scrapy
 
-- backend
+## 🌟 Projects & Contributions
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="30" height="30" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30" height="30" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/3/32/OpenCV_Logo_with_text_svg_version.svg" width="30" height="30" alt="HTML"/><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="30" height="30" alt="HTML"/>
-    
-- blockchain
+Here are some of the key projects I've contributed to or built:
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Ethereum_logo_2014.svg" width="30" height="30" alt="HTML"/>   <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/Solidity_logo.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/4/46/Bitcoin.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/9b/Binance_Logo.svg" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/9/91/MetaMask_Fox.png" width="30" height="30" alt="HTML"/><img src="https://upload.wikimedia.org/wikipedia/commons/6/61/Chainlink_logo.svg" width="30" height="30" alt="HTML"/>
-
-- bot automation
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="30" height="30" alt="HTML"/>
-    <img src="files://D:/symbols/smart-contracts.png" width="30" height="30" alt="HTML"/>
-
-- web scraping
-
-    <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="30" height="30" alt="HTML"/>
- -->
 ---
-## Things I have built or contributed
-- [Etherium smart contract](https://kleros.io/)
-<img src="https://img.shields.io/badge/Token-Symbol%20MTK-blue" alt="Blockchain"/>
-    📝 Description: Kleros is a decentralized dispute resolution system powered by Ethereum smart contracts. It's used for arbitrating contracts in decentralized applications (dApps).
-    [code here...](https://github.com/david1991826/ETH_Kleros_ERC792.git)
+
+### [Kleros: Ethereum Smart Contract](https://kleros.io/)
+**Description**: Kleros is a decentralized dispute resolution system powered by Ethereum smart contracts, used for arbitrating contracts in decentralized applications (dApps).  
+**GitHub**: [ETH_Kleros_ERC792](https://github.com/KnoxRyder999/ETH_Kleros_ERC792.git)
+
 ---
-- [Explorer - Solana ecosystem](https://explorer.solana.com)
 
-    📝 Description: Solana Explorer is a web-based tool to track transactions, tokens, and smart contracts on the Solana blockchain. It provides an in-depth view of the Solana ecosystem.
-    [code here...](https://github.com/david1991826/block_track_solana.git)
+### [Solana Blockchain Explorer](https://explorer.solana.com)
+**Description**: Solana Explorer tracks transactions, tokens, and smart contracts on the Solana blockchain, providing an in-depth view of the Solana ecosystem.  
+**GitHub**: [block_track_solana](https://github.com/KnoxRyder999/block_track_solana.git)
+
 ---
-- [SelfKey - Identity wallet](https://selfkey.org)
 
-    📝 Description: SelfKey is a self-sovereign identity platform that allows users to control and manage their digital identity using blockchain technology and smart contracts.
-    [code here...](https://github.com/david1991826/Block_selfKey_Wallet_ID.git)
+### [SelfKey Identity Wallet](https://selfkey.org)
+**Description**: SelfKey is a self-sovereign identity platform that allows users to manage their digital identity using blockchain technology and smart contracts.  
+**GitHub**: [Block_selfKey_Wallet_ID](https://github.com/KnoxRyder999/Block_selfKey_Wallet_ID.git)
+
 ---
-- [Metaplex solana ecosystem](https://www.metaplex.com)
 
-    📝 Description: Metaplex is a platform and ecosystem that enables creators to mint, list, and sell NFTs directly on Solana, focusing on user experience and scalability.
-    [code here...](https://github.com/david1991826/solana_Meta-plex-ecosys.git)
+### [Metaplex: Solana NFT Ecosystem](https://www.metaplex.com)
+**Description**: Metaplex enables creators to mint, list, and sell NFTs on the Solana blockchain.  
+**GitHub**: [solana_Meta-plex-ecosys](https://github.com/KnoxRyder999/solana_Meta-plex-ecosys.git)
+
 ---
-- [MediHub - One Hospital Management Solution](https://librehealth.io)
 
-    MediHub is an open-source web application designed to revolutionize healthcare management. Developed using the powerful MERN stack, it offers seamless management of appointments, patient records, and doctor interactions, all in one convenient platform.
-    [code here...](https://github.com/david1991826/Medical_AI_bot_MERN.git)
+### [MediHub - One Hospital Management Solution](https://librehealth.io)
+**Description**: An open-source web app built with the MERN stack for efficient healthcare management, including appointment management, patient records, and doctor interactions.  
+**GitHub**: [Medical_AI_bot_MERN](https://github.com/KnoxRyder999/Medical_AI_bot_MERN.git)
+
 ---
-- [MERN Stack AI Chatbot](https://github.com/SeleniumHQ/selenium)
 
-    This is an AI Chatbot application, inspired by ChatGPT, by using MERN Stack and OpenAI
-    [code here...](https://github.com/david1991826/MERN_AI_chat_bot.git)
+### [MERN Stack AI Chatbot](https://github.com/SeleniumHQ/selenium)
+**Description**: A chatbot inspired by ChatGPT, built with the MERN stack and integrated with OpenAI for conversational AI functionality.  
+**GitHub**: [MERN_AI_chat_bot](https://github.com/KnoxRyder999/MERN_AI_chat_bot.git)
+
 ---
-- [Python scraping](https://realpython.github.io/fake-jobs/)
 
-    An implementation of model & data parallel GPT3-like models using the mesh-tensorflow library.
-    [code here...](https://github.com/david1991826/scraping_py.git)
+### [Python Scraping - Job Listings](https://realpython.github.io/fake-jobs/)
+**Description**: A Python-based implementation of a GPT-3-like model and data-parallel scraping.  
+**GitHub**: [scraping_py](https://github.com/KnoxRyder999/scraping_py.git)
+
 ---
-- [Python scripts for interacting with the Solana blockchain](https://docs.solanatracker.io/public-data-api)
 
-    Offers comprehensive data on tokens, market metrics, wallet analytics, and real-time updates via REST and WebSocket APIs.
-    [code here...](https://github.com/david1991826/scraping_solana.git)
+### [Solana Blockchain Python Scripts](https://docs.solanatracker.io/public-data-api)
+**Description**: Python scripts to interact with the Solana blockchain for token and market data tracking via REST and WebSocket APIs.  
+**GitHub**: [scraping_solana](https://github.com/KnoxRyder999/scraping_solana.git)
+
 ---
-- [Laravel scraping](https://docs.solana.com/developing/clients/jsonrpc-api)
 
-    This project involves creating a scraper using Laravel and Vue.js to extract data from Hacker News. The scraper will retrieve information such as title, link, points, and date created for each article. The extracted data will be stored in a local MySQL database, utilizing phpMyAdmin. Only registered users will be able to view the scraper UI.
-    [code here...](https://github.com/david1991826/scraping_laravel.git)
+### [Laravel Scraping Tool for Hacker News](https://docs.solana.com/developing/clients/jsonrpc-api)
+**Description**: Scraper using Laravel & Vue.js to extract Hacker News data. The results are stored in MySQL, and the scraper UI is available for registered users.  
+**GitHub**: [scraping_laravel](https://github.com/KnoxRyder999/scraping_laravel.git)
+
 ---
-- [Ecommerce - MERN](https://kosells.herokuapp.com)
 
-    An installable e-commerce app built using the MERN stack, Redux.js, Bootstrap 5 and AWS's S3 Storage. The user authentication includes 4 social login options(Google, Github, Twitter, Linkedin).
-    [code here...](https://github.com/david1991826/mern_ecommerce.git)
+### [E-commerce App (MERN Stack)](https://kosells.herokuapp.com)
+**Description**: An installable e-commerce app built with the MERN stack and Redux.js. It supports 4 social login options (Google, Github, Twitter, LinkedIn).  
+**GitHub**: [mern_ecommerce](https://github.com/KnoxRyder999/mern_ecommerce.git)
+
 ---
-- [Blockchain Land Registry with Laravel](https://docs.moralis.io/solana)
 
-    This is a pet project built on Laravel and Ethereum to understand the basic of decentralized application. I wrote a tutorial on this.
-    [code here](https://github.com/david1991826/Laravel_blockchain.git)
+### [Blockchain Land Registry with Laravel](https://docs.moralis.io/solana)
+**Description**: A decentralized application for managing land registry built with Laravel and Ethereum.  
+**GitHub**: [Laravel_blockchain](https://github.com/KnoxRyder999/Laravel_blockchain.git)
 
+---
+
+## 🎯 Current Focus & Future Goals
+
+Currently, I am focused on building decentralized applications (dApps) that are scalable, secure, and provide a seamless user experience. My goal is to create cutting-edge blockchain solutions and contribute to the evolution of decentralized ecosystems.
+
+## 💬 Let's Connect
+
+Feel free to reach out if you are interested in collaboration, open-source contributions, or just want to chat about tech!
+
+- [LinkedIn](https://www.linkedin.com/in/KnoxRyder999/)
+- [Twitter](https://twitter.com/KnoxRyder999)
+- [Personal Website](https://your-website.com)
+
+## ⚡ Fun Fact
+I'm passionate about making complex technology accessible and intuitive for everyone! Let's build something amazing together.
+
+---
 
