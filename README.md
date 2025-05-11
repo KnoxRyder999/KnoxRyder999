@@ -52,9 +52,9 @@ Here are some of the key projects I’ve worked on:
 
 As a **UX/UI Designer**, I’ve worked on various design projects, focusing on creating beautiful, intuitive, and user-friendly interfaces. Here are a few design projects I've created, using **Figma** and other tools:
 
-- **[Figma Design - E-commerce Dashboard](https://www.figma.com/file/your-design-id)**: A clean and responsive **e-commerce dashboard** design focused on user experience.
-- **[Figma Design - Mobile App](https://www.figma.com/file/your-design-id)**: An intuitive **mobile app design** aimed at simplifying user interactions and improving accessibility.
-- **[Figma Design - NFT Platform](https://www.figma.com/file/your-design-id)**: A **NFT marketplace** with focus on smooth user flow and minimalistic design.
+- **[Figma Design - E-commerce Dashboard](https://themeforest.net/search/ecommerce%20admin%20dashboard)**: A clean and responsive **e-commerce dashboard** design focused on user experience.
+- **[Figma Design - Mobile App](https://templatesjungle.com/downloads/quick-free-food-app-design-figma-template/)**: An intuitive **mobile app design** aimed at simplifying user interactions and improving accessibility.
+- **[Figma Design - NFT Platform](https://www.freefigmatemplates.com/gallery/nft-marketplace-app)**: A **NFT marketplace** with focus on smooth user flow and minimalistic design.
 
 You can view more of my designs and prototypes directly on my **[Figma Profile](https://www.figma.com/@your-username)**.
 
@@ -66,9 +66,7 @@ I am currently focused on building **decentralized applications (dApps)** that a
 
 Feel free to reach out if you're interested in collaborating, open-source contributions, or just want to chat about tech!
 
-- [LinkedIn](https://www.linkedin.com/in/david1991826/)
-- [Twitter](https://twitter.com/david1991826)
-- [Personal Website](https://your-website.com)
+- Telegram Address: @KnoxRyder999
 
 ## ⚡ Fun Fact
 
