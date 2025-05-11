@@ -1,11 +1,11 @@
 
-    ✅ Full-Stack Development (React, Vue, Node.js, Laravel, Next.js)
-    ✅ UI/UX Design with focus on usability and responsiveness
-    ✅ Blockchain & Smart Contract (Solidity, Solana, Web3)
-    ✅ Automation & Bot Development (Python, Puppeteer, Selenium)
-    ✅ AI & Machine Learning Integration
-    ✅ Web Scraping & Data Mining
-    ✅ Clean code, on-time delivery, and open communication
+- Full-Stack Development (React, Vue, Node.js, Laravel, Next.js)
+- UI/UX Design with focus on usability and responsiveness
+- Blockchain & Smart Contract (Solidity, Solana, Web3)
+- Automation & Bot Development (Python, Puppeteer, Selenium)
+- AI & Machine Learning Integration
+- Web Scraping & Data Mining
+- Clean code, on-time delivery, and open communication
 
 <!-- - frontend
 
@@ -30,7 +30,7 @@
  -->
 ---
 ## Things I have built or contributed
-
+<a href="https://www.flaticon.com/free-icons/smart-contracts" title="smart contracts icons">Smart contracts icons created by wanicon - Flaticon</a>
 - [Etherium smart contract](https://kleros.io/)
 
     📝 Description: Kleros is a decentralized dispute resolution system powered by Ethereum smart contracts. It's used for arbitrating contracts in decentralized applications (dApps).
