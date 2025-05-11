@@ -1,13 +1,13 @@
 
-✅ Full-Stack Development (React, Vue, Node.js, Laravel, Next.js)
-✅ UI/UX Design with focus on usability and responsiveness
-✅ Blockchain & Smart Contract (Solidity, Solana, Web3)
-✅ Automation & Bot Development (Python, Puppeteer, Selenium)
-✅ AI & Machine Learning Integration
-✅ Web Scraping & Data Mining
-✅ Clean code, on-time delivery, and open communication
+    ✅ Full-Stack Development (React, Vue, Node.js, Laravel, Next.js)
+    ✅ UI/UX Design with focus on usability and responsiveness
+    ✅ Blockchain & Smart Contract (Solidity, Solana, Web3)
+    ✅ Automation & Bot Development (Python, Puppeteer, Selenium)
+    ✅ AI & Machine Learning Integration
+    ✅ Web Scraping & Data Mining
+    ✅ Clean code, on-time delivery, and open communication
 
-- frontend
+<!-- - frontend
 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="30" height="30" alt="HTML"/>    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="30" height="30" alt="HTML"/>  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" width="30" height="30" alt="HTML"/>
 
@@ -27,7 +27,7 @@
 - web scraping
 
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Slack_Icon.png" width="30" height="30" alt="HTML"/>
-
+ -->
 ---
 ## Things I have built or contributed
 
