@@ -1,8 +1,6 @@
 # 🌟 David's Portfolio
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockchain**, **AI**, **Automation**, and **Smart Contract** development. I create scalable, efficient, and user-centric applications. Let's build the decentralized web together! 🚀
-
-![David's GitHub Stats](https://github-readme-stats.vercel.app/api?username=david1991826&show_icons=true&hide_title=true&hide=prs&count_private=true&hide_border=true)
+Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockchain**, **AI**, **Automation**, **Smart Contract** development, and **UX/UI Design**. I build scalable, efficient, and user-centric applications. Let's build the decentralized web together! 🚀
 
 ## 🚀 Skills & Technologies
 
@@ -12,6 +10,11 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockc
 - 🛠️ **Automation & Bot Development**: Python, Puppeteer, Selenium  
 - 🧠 **AI & Machine Learning**: Integration of ML models with web applications  
 - 🌐 **Web Scraping & Data Mining**: Python, BeautifulSoup, Scrapy  
+
+**Design & Tools**:  
+- 🎨 **UI/UX Design**: Figma, Adobe XD, Sketch, Responsive Design, Prototyping  
+- 🌈 **Design Systems**: Material UI, Tailwind CSS, Bootstrap  
+- 🎯 **User-Centered Design**: Wireframing, Interaction Design, Usability Testing, and User Research
 
 **Tools & Platforms**:  
 - 🔥 **Databases**: MongoDB, MySQL, PostgreSQL  
@@ -25,8 +28,11 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockc
 - 🌍 **Developed the Solana Blockchain Explorer**, a tool for real-time Solana transaction tracking.
 - 🏥 **Created MediHub**, a complete open-source hospital management solution using MERN stack.
 - 🎨 **Designed and deployed** a **blockchain-based land registry** app with Laravel and Ethereum.
+- ✏️ **Designed intuitive UI/UX** for multiple web and mobile applications, focusing on **usability** and **accessibility**.
 
 ## 🌟 Projects & Contributions
+
+Here are some of the key projects I’ve worked on:
 
 | **Project** | **Description** | **GitHub** |
 |-------------|-----------------|------------|
@@ -35,7 +41,7 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockc
 | **[SelfKey Identity Wallet](https://selfkey.org)** | Self-sovereign identity management solution leveraging blockchain technology. | [GitHub](https://github.com/david1991826/Block_selfKey_Wallet_ID.git) |
 | **[Metaplex: Solana NFT Ecosystem](https://www.metaplex.com)** | Platform to mint, list, and sell NFTs on the Solana blockchain. | [GitHub](https://github.com/david1991826/solana_Meta-plex-ecosys.git) |
 | **[MediHub: Hospital Management Solution](https://librehealth.io)** | Open-source hospital management solution built with the MERN stack. | [GitHub](https://github.com/david1991826/Medical_AI_bot_MERN.git) |
-| **[MERN Stack AI Chatbot](https://github.com/SeleniumHQ/selenium)** | AI-powered chatbot built with MERN stack and OpenAI API. | [GitHub](https://github.com/david1991826/MERN_AI_chat_bot.git) |
+| **[MERN Stack AI Chatbot](https://github.com/SeleniumHQ/selenium)** | AI-powered chatbot built with MERN stack and integrated with OpenAI. | [GitHub](https://github.com/david1991826/MERN_AI_chat_bot.git) |
 | **[Python Scraping - Job Listings](https://realpython.github.io/fake-jobs/)** | Python-based scraping for job listings data. | [GitHub](https://github.com/david1991826/scraping_py.git) |
 | **[Solana Blockchain Python Scripts](https://docs.solanatracker.io/public-data-api)** | Python scripts to track Solana tokens and market data. | [GitHub](https://github.com/david1991826/scraping_solana.git) |
 | **[Laravel Scraper for Hacker News](https://docs.solana.com/developing/clients/jsonrpc-api)** | Laravel-based scraper to retrieve data from Hacker News. | [GitHub](https://github.com/david1991826/scraping_laravel.git) |
@@ -44,7 +50,7 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockc
 
 ## 🎯 Current Focus & Future Goals
 
-I'm currently focused on building decentralized applications (**dApps**) that are secure, scalable, and provide an excellent user experience. My long-term goal is to contribute to the development of blockchain technologies, particularly in areas of **DeFi**, **NFTs**, and **Smart Contracts**.
+I am currently focused on building **decentralized applications (dApps)** that are secure, scalable, and provide an exceptional user experience. My long-term goal is to contribute to the development of **blockchain technologies** and lead design initiatives for **user-friendly interfaces** in the **DeFi** and **NFT** space.
 
 ## 💬 Let's Connect
 
