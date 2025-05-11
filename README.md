@@ -63,12 +63,3 @@ Feel free to reach out if you're interested in collaborating, open-source contri
 ## ⚡ Fun Fact
 
 I’m passionate about making complex technologies accessible and building solutions that empower people to take control of their digital identities. Let’s build something amazing together! 💡
-
----
-
-## 🔗 Badges
-
-![Build Status](https://img.shields.io/github/workflow/status/david1991826/david1991826/build)
-![License](https://img.shields.io/github/license/david1991826/david1991826)
-![Languages](https://img.shields.io/github/languages/top/david1991826/david1991826)
-
