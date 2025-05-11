@@ -1,6 +1,6 @@
-# 🌟 David's Portfolio
+# 🌟 Knox Ryder's Portfolio
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockchain**, **AI**, **Automation**, **Smart Contract** development, and **UX/UI Design**. I build scalable, efficient, and user-centric applications. Let's build the decentralized web together! 🚀
+Welcome to my GitHub! I'm a **Full-Stack Developer** and **UX/UI Designer** with a passion for **Blockchain**, **AI**, **Automation**, **Smart Contract** development, and **User-Centered Design**. I build scalable, efficient, and beautiful applications. Let's create innovative, intuitive, and user-friendly solutions together! 🚀
 
 ## 🚀 Skills & Technologies
 
@@ -14,7 +14,7 @@ Welcome to my GitHub! I'm a **Full-Stack Developer** with a passion for **Blockc
 **Design & Tools**:  
 - 🎨 **UI/UX Design**: Figma, Adobe XD, Sketch, Responsive Design, Prototyping  
 - 🌈 **Design Systems**: Material UI, Tailwind CSS, Bootstrap  
-- 🎯 **User-Centered Design**: Wireframing, Interaction Design, Usability Testing, and User Research
+- 🎯 **User-Centered Design**: Wireframing, Interaction Design, Usability Testing, and User Research  
 
 **Tools & Platforms**:  
 - 🔥 **Databases**: MongoDB, MySQL, PostgreSQL  
@@ -47,6 +47,16 @@ Here are some of the key projects I’ve worked on:
 | **[Laravel Scraper for Hacker News](https://docs.solana.com/developing/clients/jsonrpc-api)** | Laravel-based scraper to retrieve data from Hacker News. | [GitHub](https://github.com/david1991826/scraping_laravel.git) |
 | **[E-commerce App (MERN)](https://kosells.herokuapp.com)** | E-commerce platform with social logins and AWS S3 storage. | [GitHub](https://github.com/david1991826/mern_ecommerce.git) |
 | **[Blockchain Land Registry with Laravel](https://docs.moralis.io/solana)** | A decentralized land registry app built with Laravel and Ethereum. | [GitHub](https://github.com/david1991826/Laravel_blockchain.git) |
+
+## 🎨 UX/UI Design Projects
+
+As a **UX/UI Designer**, I’ve worked on various design projects, focusing on creating beautiful, intuitive, and user-friendly interfaces. Here are a few design projects I've created, using **Figma** and other tools:
+
+- **[Figma Design - E-commerce Dashboard](https://www.figma.com/file/your-design-id)**: A clean and responsive **e-commerce dashboard** design focused on user experience.
+- **[Figma Design - Mobile App](https://www.figma.com/file/your-design-id)**: An intuitive **mobile app design** aimed at simplifying user interactions and improving accessibility.
+- **[Figma Design - NFT Platform](https://www.figma.com/file/your-design-id)**: A **NFT marketplace** with focus on smooth user flow and minimalistic design.
+
+You can view more of my designs and prototypes directly on my **[Figma Profile](https://www.figma.com/@your-username)**.
 
 ## 🎯 Current Focus & Future Goals
 
