@@ -30,9 +30,8 @@
  -->
 ---
 ## Things I have built or contributed
-<a href="https://www.flaticon.com/free-icons/smart-contracts" title="smart contracts icons">Smart contracts icons created by wanicon - Flaticon</a>
 - [Etherium smart contract](https://kleros.io/)
-
+<img src="https://img.shields.io/badge/Token-Symbol%20MTK-blue" alt="Blockchain"/>
     📝 Description: Kleros is a decentralized dispute resolution system powered by Ethereum smart contracts. It's used for arbitrating contracts in decentralized applications (dApps).
     [code here...](https://github.com/david1991826/ETH_Kleros_ERC792.git)
 ---
