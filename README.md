@@ -7,21 +7,13 @@
 
 <hr/>
 
-## 🚩 I am a highly skilled Full-Stack Developer with
-extensive experience in building scalable, high performance web applications and blockchain
-solutions. I specialize in working with React,
-Node.js, Next.js, Django, and Ethereum, Solana,
-Tron to deliver custom web development services
-to European and global clients in sectors like ecommerce, fintech, and blockchain. My passion for
-technology innovation and client satisfaction drives
-me to deliver solutions that help businesses scale,
-optimize, and grow in the competitive digital
-landscape.💙.
+## 🚩 Full-Stack | Blockchain | AI Developer
+with 10+ years of experience designing, developing, and deploying scalable web applications. Specialized in blockchain development, smart contracts, and user-centered design. Passionate about solving complex problems and creating intuitive digital experiences through innovative tech stacks and collaboration 💙.
 ## 😉 My passion is to create efficient, scalable, and user-centric software that shapes the digital landscape ⭐.
 
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Senior Software Engineer
->  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Full stack & Blockchain Developer
-> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> Machine Learning
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Full Stack developer
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> AI expert
+>  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Blockchain Developer
 
 <hr />
 
