@@ -28,6 +28,6 @@ with 10+ years of experience designing, developing, and deploying scalable web a
   
 ## My Github Stats
 <div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
-<img  align="center" style="width: 37%;" src="https://knoxryder999.github.io/svg-host/mostlyLanguage.svg"  alt="Cboy220" />
-<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Cboy220&show_icons=true&locale=en"  alt="Cboy220" />
+<img  align="center" style="width: 37%;" src="https://knoxryder999.github.io/svg-host/mostlyLanguage.svg"  alt="Knox most used languages" />
+<img  align="center" style="width: 49%;" src="https://knoxryder999.github.io/svg-host/github_state.svg"  alt="Knox github state" />
 </div>
