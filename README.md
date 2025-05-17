@@ -1,73 +1,41 @@
-# 🌟 Knox Ryder's Portfolio
 
-Welcome to my GitHub! I'm a **Full-Stack Developer** and **UX/UI Designer** with a passion for **Blockchain**, **AI**, **Automation**, **Smart Contract** development, and **User-Centered Design**. I build scalable, efficient, and beautiful applications. Let's create innovative, intuitive, and user-friendly solutions together! 🚀
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Welcome!&fontAlign=80&fontAlignY=40&color=gradient)
+<p align= "center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&center=true&multiline=true&width=500&height=80&lines=%22The+beauty+of+software+lies+not+in;+its+complexity%2C+but+in+its+simplicity.%22+;+-Me" />
+</p>
+<div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/jest-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/graphql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="icon" width="65" height="65" /></div><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/rescript-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/sass-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/gatsby-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/webpack-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/eslint-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/raspberrypi-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/testinglibrary-icon.svg" alt="icon" width="65" height="65" /></div>
 
-## 🚀 Skills & Technologies
+<hr/>
 
-**Languages & Frameworks**:  
-- 🖥️ **Full-Stack Development**: React, Vue.js, Node.js, Laravel, Next.js  
-- ⚡ **Blockchain**: Solidity, Solana, Web3.js  
-- 🛠️ **Automation & Bot Development**: Python, Puppeteer, Selenium  
-- 🧠 **AI & Machine Learning**: Integration of ML models with web applications  
-- 🌐 **Web Scraping & Data Mining**: Python, BeautifulSoup, Scrapy  
+## 🚩 I am a highly skilled Full-Stack Developer with
+extensive experience in building scalable, high performance web applications and blockchain
+solutions. I specialize in working with React,
+Node.js, Next.js, Django, and Ethereum, Solana,
+Tron to deliver custom web development services
+to European and global clients in sectors like ecommerce, fintech, and blockchain. My passion for
+technology innovation and client satisfaction drives
+me to deliver solutions that help businesses scale,
+optimize, and grow in the competitive digital
+landscape.💙.
+## 😉 My passion is to create efficient, scalable, and user-centric software that shapes the digital landscape ⭐.
 
-**Design & Tools**:  
-- 🎨 **UI/UX Design**: Figma, Adobe XD, Sketch, Responsive Design, Prototyping  
-- 🌈 **Design Systems**: Material UI, Tailwind CSS, Bootstrap  
-- 🎯 **User-Centered Design**: Wireframing, Interaction Design, Usability Testing, and User Research  
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Senior Software Engineer
+>  ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" alt="Laptop" width="25" height="25" /> Full stack & Blockchain Developer
+> ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Coin.png" alt="Coin" width="25" height="25" /> Machine Learning
 
-**Tools & Platforms**:  
-- 🔥 **Databases**: MongoDB, MySQL, PostgreSQL  
-- 🔧 **Version Control**: Git, GitHub, GitLab  
-- 🌍 **Cloud & DevOps**: AWS, Heroku, Docker  
-- 🔒 **Security**: JWT, OAuth, SSL/TLS
+<hr />
 
-## 🏆 Highlights
+<p align="center">
+  <h3>Main Skills</h3>    
+    <img src="https://skillicons.dev/icons?i=go,python,js,php,java,c,r,django,nodejs,react,next,angular,vue,nuxt,spring,laravel,postgresql,mongodb,mysql,redis,aws,azure,docker,kubernetes,jenkins,ansible,tailwind,bootstrap,yarn,git,github,gitlab,grafana,prometheus,rabbitmq,pytorch,kafka,ai,graphql,flask,fastapi,opencv,regex,tensorflow,sklearn" /><br/>    
+</p>
 
-- 🚀 **Contributed to the Ethereum ecosystem** through the **Kleros dispute resolution system**.
-- 🌍 **Developed the Solana Blockchain Explorer**, a tool for real-time Solana transaction tracking.
-- 🏥 **Created MediHub**, a complete open-source hospital management solution using MERN stack.
-- 🎨 **Designed and deployed** a **blockchain-based land registry** app with Laravel and Ethereum.
-- ✏️ **Designed intuitive UI/UX** for multiple web and mobile applications, focusing on **usability** and **accessibility**.
-
-## 🌟 Projects & Contributions
-
-Here are some of the key projects I’ve worked on:
-
-| **Project** | **Description** | **GitHub** |
-|-------------|-----------------|------------|
-| **[Kleros: Ethereum Smart Contract](https://kleros.io/)** | Decentralized dispute resolution system built with Ethereum smart contracts. | [GitHub](https://github.com/david1991826/ETH_Kleros_ERC792.git) |
-| **[Solana Blockchain Explorer](https://explorer.solana.com)** | Real-time transaction and token tracking for the Solana blockchain. | [GitHub](https://github.com/david1991826/block_track_solana.git) |
-| **[SelfKey Identity Wallet](https://selfkey.org)** | Self-sovereign identity management solution leveraging blockchain technology. | [GitHub](https://github.com/david1991826/Block_selfKey_Wallet_ID.git) |
-| **[Metaplex: Solana NFT Ecosystem](https://www.metaplex.com)** | Platform to mint, list, and sell NFTs on the Solana blockchain. | [GitHub](https://github.com/david1991826/solana_Meta-plex-ecosys.git) |
-| **[MediHub: Hospital Management Solution](https://librehealth.io)** | Open-source hospital management solution built with the MERN stack. | [GitHub](https://github.com/david1991826/Medical_AI_bot_MERN.git) |
-| **[MERN Stack AI Chatbot](https://github.com/SeleniumHQ/selenium)** | AI-powered chatbot built with MERN stack and integrated with OpenAI. | [GitHub](https://github.com/david1991826/MERN_AI_chat_bot.git) |
-| **[Python Scraping - Job Listings](https://realpython.github.io/fake-jobs/)** | Python-based scraping for job listings data. | [GitHub](https://github.com/david1991826/scraping_py.git) |
-| **[Solana Blockchain Python Scripts](https://docs.solanatracker.io/public-data-api)** | Python scripts to track Solana tokens and market data. | [GitHub](https://github.com/david1991826/scraping_solana.git) |
-| **[Laravel Scraper for Hacker News](https://docs.solana.com/developing/clients/jsonrpc-api)** | Laravel-based scraper to retrieve data from Hacker News. | [GitHub](https://github.com/david1991826/scraping_laravel.git) |
-| **[E-commerce App (MERN)](https://kosells.herokuapp.com)** | E-commerce platform with social logins and AWS S3 storage. | [GitHub](https://github.com/david1991826/mern_ecommerce.git) |
-| **[Blockchain Land Registry with Laravel](https://docs.moralis.io/solana)** | A decentralized land registry app built with Laravel and Ethereum. | [GitHub](https://github.com/david1991826/Laravel_blockchain.git) |
-
-## 🎨 UX/UI Design Projects
-
-As a **UX/UI Designer**, I’ve worked on various design projects, focusing on creating beautiful, intuitive, and user-friendly interfaces. Here are a few design projects I've created, using **Figma** and other tools:
-
-- **[Figma Design - E-commerce Dashboard](https://themeforest.net/search/ecommerce%20admin%20dashboard)**: A clean and responsive **e-commerce dashboard** design focused on user experience.
-- **[Figma Design - Mobile App](https://templatesjungle.com/downloads/quick-free-food-app-design-figma-template/)**: An intuitive **mobile app design** aimed at simplifying user interactions and improving accessibility.
-- **[Figma Design - NFT Platform](https://www.freefigmatemplates.com/gallery/nft-marketplace-app)**: A **NFT marketplace** with focus on smooth user flow and minimalistic design.
-
-You can view more of my designs and prototypes directly on my **[Figma Profile](https://www.figma.com/@your-username)**.
-
-## 🎯 Current Focus & Future Goals
-
-I am currently focused on building **decentralized applications (dApps)** that are secure, scalable, and provide an exceptional user experience. My long-term goal is to contribute to the development of **blockchain technologies** and lead design initiatives for **user-friendly interfaces** in the **DeFi** and **NFT** space.
-
-## 💬 Let's Connect
-
-Feel free to reach out if you're interested in collaborating, open-source contributions, or just want to chat about tech!
-
-- Telegram Address: @KnoxRyder999
-
-## ⚡ Fun Fact
-
-I’m passionate about making complex technologies accessible and building solutions that empower people to take control of their digital identities. Let’s build something amazing together! 💡
+<hr /> 
+## 🏆 GitHub Trophies
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Cboy220" alt="Cboy220" /></a> </p>  
+  
+## My Github Stats
+<div  style="display: flex; flex-direction: column; align-items: center; justify-content:center; width: 100%; ">
+<img  align="center" style="width: 37%;" src="https://github-readme-stats.vercel.app/api/top-langs?username=Cboy220&show_icons=true&locale=en&layout=compact"  alt="Cboy220" />
+<img  align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=Cboy220&show_icons=true&locale=en"  alt="Cboy220" />
+</div>
